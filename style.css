@@ -1,0 +1,36 @@
+* {
+    font-family: Verdana, Tahoma, monospace;
+}
+
+.menu{
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 22px;
+    text-transform: uppercase;
+    color:indianred;
+}
+
+h1{
+    font-weight: 900;
+    text-align: center;
+    color:mediumvioletred;
+}
+
+h3{
+    font-size:18px;
+    font-weight:700;
+}
+
+#reconversion{
+    font-size: medium;
+}
+
+.moyen{
+    color: darkred;
+}
+
+.debut{
+    color: darksalmon;
+}
